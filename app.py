@@ -161,7 +161,7 @@ create_table()
 # STREAMLIT UI
 # ===========================
 
-st.title("📚 Student Management System")
+st.title("📚 Student Management System - Welcome")
 st.markdown("---")
 
 # Sidebar navigation
@@ -291,3 +291,4 @@ st.markdown("""
     <p>Student Management System v1.0 | Powered by Streamlit & SQLite3</p>
 </div>
 """, unsafe_allow_html=True)
+
